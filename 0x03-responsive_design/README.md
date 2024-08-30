@@ -1,0 +1,2 @@
+## 0x03. Responsive design
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4fe027a0c298339cb4cb.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240830T105807Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c3def50506eb9e91516d77b81a9a08a946e995427048cd9d1ca18f4e48092fe2">
